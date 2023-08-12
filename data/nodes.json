@@ -67,6 +67,11 @@
     			"idkey": "3NxfHLnv3ZULDL56Q6izi5u8XjEsVQq4NBN7zPYVxjWD",
     			"user": ["JEROMEHTO"],
     			"name": "🇵🇱 Varsovie"
+		},
+		{
+    			"idkey": "3tpqQ7xNCBZcMoewGf3CKTJTKKsAjGXFEiCPYsvcEeyQ",
+    			"user": ["edt-node"],
+    			"name": "🇫🇷 Paris"
 		}
 	],
 	"gateways": [{
