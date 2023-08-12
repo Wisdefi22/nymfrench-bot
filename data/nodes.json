@@ -67,7 +67,12 @@
     			"idkey": "3NxfHLnv3ZULDL56Q6izi5u8XjEsVQq4NBN7zPYVxjWD",
     			"user": ["JEROMEHTO"],
     			"name": "🇵🇱 Varsovie"
-		}
+		},
+		{
+   			"idkey": "n1yc8smp2at7zdfjs6cmz9qa3eyxrhk2alxyufuz",
+  			"user": ["WisDefi"],
+  			"name": "edt-node - 🇫🇷 Paris"
+ 		}
 	],
 	"gateways": [{
 			"idkey": "EBT8jTD8o4tKng2NXrrcrzVhJiBnKpT1bJy5CMeArt2w",
@@ -94,6 +99,6 @@
 			"user": ["zBlaxx"],
 			"name": "gateway4u - 🇨🇦 Montréal"			
 		}
-
+		
 	]
 }
